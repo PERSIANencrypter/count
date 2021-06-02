@@ -78,6 +78,7 @@ img[id="logoo"]{
   
 }
 body{
+  width: 50%;
   background-image: url('/back.jpg');
   background-image: url("back.jpg");
 }

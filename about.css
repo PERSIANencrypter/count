@@ -1,0 +1,32 @@
+a[id="link"]{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 30px;
+  
+}
+
+div[id="aslii"]{
+  background-color: #f312c4;
+  width: 344px;
+  height: 300px;
+  margin-top: 20px;
+  float: center;
+  border-radius: 10px;
+  border-style: #ffffff;
+  
+}
+a[id="main"]{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 135px;
+}
+img[id="logoo"]{
+  width: 345px;
+  height: 150px;
+  float: center;
+  border-radius: 10px;
+  
+}
+body{
+  background-image: url('/back.jpg');
+}
